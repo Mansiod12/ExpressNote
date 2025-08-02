@@ -7,7 +7,6 @@ ExpressNote is a full-stack **note-taking web application** built using the **ME
 ## 🚀 Features
 
 - ✍️ Create, edit, and delete notes
-- 🔐 User authentication with JWT
 - 📒 View and manage all your notes
 - 📂 Clean folder structure with modular code
 - ⚛️ Responsive and user-friendly UI
@@ -25,7 +24,6 @@ ExpressNote is a full-stack **note-taking web application** built using the **ME
 | React.js      | Frontend library for dynamic UI      |
 | Node.js       | JavaScript runtime environment       |
 | Mongoose      | ODM for MongoDB                      |
-| JWT           | Secure authentication system         |
 | CSS/Tailwind  | Styling (choose what you're using)   |
 
 ---
@@ -56,7 +54,6 @@ npm install
 Create a .env file in the server/ directory and add:
 
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
 
 Then run:
 

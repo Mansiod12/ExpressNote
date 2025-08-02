@@ -30,23 +30,6 @@ ExpressNote is a full-stack **note-taking web application** built using the **ME
 
 ---
 
-## 📁 Folder Structure
-
-expressnote/
-├── client/ # React frontend
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── App.js
-├── server/ # Node/Express backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-
-
----
-
 ## 📦 Getting Started
 
 ### ✅ Prerequisites
